@@ -1,0 +1,553 @@
+[
+  {
+    "id": 1,
+    "name": "Galahad",
+    "position": "Front Line",
+    "stat": "Strength",
+    "role": "Tank",
+    "faction": "Honor"
+  },
+  {
+    "id": 2,
+    "name": "Astaroth",
+    "position": "Front Line",
+    "stat": "Strength",
+    "role": "Tank, Support",
+    "faction": "Chaos"
+  },
+  {
+    "id": 3,
+    "name": "Ginger",
+    "position": "Back Line",
+    "stat": "Agility",
+    "role": "Marksman",
+    "faction": "Progress"
+  },
+  {
+    "id": 4,
+    "name": "Mojo",
+    "position": "Middle Line",
+    "stat": "Intelligence",
+    "role": "Mage, Support",
+    "faction": "Nature"
+  },
+  {
+    "id": 5,
+    "name": "Thea",
+    "position": "Back Line",
+    "stat": "Intelligence",
+    "role": "Healer",
+    "faction": "Nature"
+  },
+  {
+    "id": 6,
+    "name": "Aurora",
+    "position": "Front Line",
+    "stat": "Strength",
+    "role": "Tank",
+    "faction": "Nature"
+  },
+  {
+    "id": 7,
+    "name": "Phobos",
+    "position": "Back Line",
+    "stat": "Intelligence",
+    "role": "Mage, Control",
+    "faction": "Eternity"
+  },
+  {
+    "id": 8,
+    "name": "Keira",
+    "position": "Back Line",
+    "stat": "Agility",
+    "role": "Marksman",
+    "faction": "Eternity"
+  },
+  {
+    "id": 9,
+    "name": "Fox",
+    "position": "Back Line",
+    "stat": "Agility",
+    "role": "Marksman",
+    "faction": "Progress"
+  },
+  {
+    "id": 10,
+    "name": "Heidi",
+    "position": "Middle Line",
+    "stat": "Intelligence",
+    "role": "Mage",
+    "faction": "Mystery"
+  },
+  {
+    "id": 11,
+    "name": "Maya",
+    "position": "Middle Line",
+    "stat": "Intelligence",
+    "role": "Healer, Mage",
+    "faction": "Mystery"
+  },
+  {
+    "id": 12,
+    "name": "Qing Mao",
+    "position": "Front Line",
+    "stat": "Agility",
+    "role": "Warrior",
+    "faction": "Honor"
+  },
+  {
+    "id": 13,
+    "name": "Cornelius",
+    "position": "Back Line",
+    "stat": "Intelligence",
+    "role": "Mage, Support",
+    "faction": "Honor"
+  },
+  {
+    "id": 14,
+    "name": "Lian",
+    "position": "Back Line",
+    "stat": "Intelligence",
+    "role": "Mage, Control",
+    "faction": "Mystery"
+  },
+  {
+    "id": 15,
+    "name": "Dorian",
+    "position": "Back Line",
+    "stat": "Intelligence",
+    "role": "Support",
+    "faction": "Chaos"
+  },
+  {
+    "id": 16,
+    "name": "Faceless",
+    "position": "Back Line",
+    "stat": "Intelligence",
+    "role": "Mage, Control",
+    "faction": "Eternity"
+  },
+  {
+    "id": 17,
+    "name": "Luther",
+    "position": "Front Line",
+    "stat": "Strength",
+    "role": "Tank, Control",
+    "faction": "Honor"
+  },
+  {
+    "id": 18,
+    "name": "Lars",
+    "position": "Back Line",
+    "stat": "Intelligence",
+    "role": "Mage, Control",
+    "faction": "Chaos"
+  },
+  {
+    "id": 19,
+    "name": "Chabba",
+    "position": "Front Line",
+    "stat": "Strength",
+    "role": "Tank, Control",
+    "faction": "Nature"
+  },
+  {
+    "id": 20,
+    "name": "Elmir",
+    "position": "Front Line",
+    "stat": "Agility",
+    "role": "Warrior, Marksman",
+    "faction": "Nature"
+  },
+  {
+    "id": 21,
+    "name": "Jorgen",
+    "position": "Middle Line",
+    "stat": "Strength",
+    "role": "Control, Support",
+    "faction": "Chaos"
+  },
+  {
+    "id": 22,
+    "name": "Lilith",
+    "position": "Back Line",
+    "stat": "Strength",
+    "role": "Mage, Marksman",
+    "faction": "Chaos"
+  },
+  {
+    "id": 23,
+    "name": "Celeste",
+    "position": "Middle Line",
+    "stat": "Intelligence",
+    "role": "Healer, Control",
+    "faction": "Mystery"
+  },
+  {
+    "id": 24,
+    "name": "Satori",
+    "position": "Front Line",
+    "stat": "Intelligence",
+    "role": "Mage",
+    "faction": "Mystery"
+  },
+  {
+    "id": 25,
+    "name": "Amira",
+    "position": "Middle Line",
+    "stat": "Intelligence",
+    "role": "Mage, Support",
+    "faction": "Mystery"
+  },
+  {
+    "id": 26,
+    "name": "Iris",
+    "position": "Middle Line",
+    "stat": "Intelligence",
+    "role": "Mage",
+    "faction": "Eternity"
+  },
+  {
+    "id": 27,
+    "name": "Rufus",
+    "position": "Front Line",
+    "stat": "Strength",
+    "role": "Tank, Support",
+    "faction": "Mystery"
+  },
+  {
+    "id": 28,
+    "name": "Andvari",
+    "position": "Front Line",
+    "stat": "Strength",
+    "role": "Support, Control",
+    "faction": "Mystery"
+  },
+  {
+    "id": 29,
+    "name": "Mushy and Shroom",
+    "position": "Front Line",
+    "stat": "Intelligence",
+    "role": "Mage",
+    "faction": "Nature"
+  },
+  {
+    "id": 30,
+    "name": "Ishmael",
+    "position": "Front Line",
+    "stat": "Agility",
+    "role": "Warrior",
+    "faction": "Honor"
+  },
+  {
+    "id": 31,
+    "name": "Judge",
+    "position": "Middle Line",
+    "stat": "Intelligence",
+    "role": "Mage, Support",
+    "faction": "Progress"
+  },
+  {
+    "id": 32,
+    "name": "Artemis",
+    "position": "Back Line",
+    "stat": "Agility",
+    "role": "Marksman",
+    "faction": "Honor"
+  },
+  {
+    "id": 33,
+    "name": "Arachne",
+    "position": "Middle Line",
+    "stat": "Intelligence",
+    "role": "Warrior, Control",
+    "faction": "Progress"
+  },
+  {
+    "id": 34,
+    "name": "Fafnir",
+    "position": "Back Line",
+    "stat": "Strength",
+    "role": "Support",
+    "faction": "Honor"
+  },
+  {
+    "id": 35,
+    "name": "Dark Star",
+    "position": "Back Line",
+    "stat": "Agility",
+    "role": "Marksman, Control",
+    "faction": "Nature"
+  },
+  {
+    "id": 36,
+    "name": "Orion",
+    "position": "Back Line",
+    "stat": "Intelligence",
+    "role": "Mage",
+    "faction": "Progress"
+  },
+  {
+    "id": 37,
+    "name": "Markus",
+    "position": "Front Line",
+    "stat": "Intelligence",
+    "role": "Healer, Support",
+    "faction": "Honor"
+  },{
+    "id": 38,
+    "name": "K'arkh",
+    "position": "Front Line",
+    "stat": "Agility",
+    "role": "Warrior",
+    "faction": "Eternity"
+  },
+  {
+    "id": 39,
+    "name": "Dante",
+    "position": "Middle Line",
+    "stat": "Agility",
+    "role": "Marksman",
+    "faction": "Eternity"
+  },
+  {
+    "id": 40,
+    "name": "Daredevil",
+    "position": "Back Line",
+    "stat": "Agility",
+    "role": "Marksman",
+    "faction": "Progress"
+  },
+  {
+    "id": 41,
+    "name": "Astrid and Lucas",
+    "position": "Back Line",
+    "stat": "Agility",
+    "role": "Warrior, Marksman",
+    "faction": "Progress"
+  },
+  {
+    "id": 42,
+    "name": "Peppy",
+    "position": "Back Line",
+    "stat": "Intelligence",
+    "role": "Mage, Support",
+    "faction": "Chaos"
+  },
+  {
+    "id": 43,
+    "name": "Alvanor",
+    "position": "Front Line",
+    "stat": "Intelligence",
+    "role": "Support, Mage",
+    "faction": "Nature"
+  },
+  {
+    "id": 44,
+    "name": "Tristan",
+    "position": "Front Line",
+    "stat": "Strength",
+    "role": "Warrior",
+    "faction": "Honor"
+  },
+  {
+    "id": 45,
+    "name": "Helios",
+    "position": "Back Line",
+    "stat": "Intelligence",
+    "role": "Mage",
+    "faction": "Honor"
+  },
+  {
+    "id": 46,
+    "name": "Kai",
+    "position": "Middle Line",
+    "stat": "Intelligence",
+    "role": "Mage",
+    "faction": "Nature"
+  },
+  {
+    "id": 47,
+    "name": "Nebula",
+    "position": "Middle Line",
+    "stat": "Agility",
+    "role": "Support",
+    "faction": "Progress"
+  },
+  {
+    "id": 48,
+    "name": "Julius*",
+    "position": "Front Line",
+    "stat": "Strength",
+    "role": "Tank",
+    "faction": "Progress"
+  },
+  {
+    "id": 49,
+    "name": "Martha",
+    "position": "Back Line",
+    "stat": "Intelligence",
+    "role": "Support, Tank",
+    "faction": "Mystery"
+  },
+  {
+    "id": 50,
+    "name": "Jhu",
+    "position": "Middle Line",
+    "stat": "Strength",
+    "role": "Marksman",
+    "faction": "Nature"
+  },
+  {
+    "id": 51,
+    "name": "Sebastion",
+    "position": "Middle Line",
+    "stat": "Agility",
+    "role": "Support",
+    "faction": "Progress"
+  },
+  {
+    "id": 52,
+    "name": "Ziri",
+    "position": "Front Line",
+    "stat": "Strength",
+    "role": "Tank",
+    "faction": "Mystery"
+  },
+  {
+    "id": 53,
+    "name": "Yasmine",
+    "position": "Front Line",
+    "stat": "Agility",
+    "role": "Warrior",
+    "faction": "Nature"
+  },
+  {
+    "id": 54,
+    "name": "Isaac",
+    "position": "Middle Line",
+    "stat": "Agility",
+    "role": "Support",
+    "faction": "Progress"
+  },
+  {
+    "id": 55,
+    "name": "Xe'Sha",
+    "position": "Middle Line",
+    "stat": "Intelligence",
+    "role": "Mage, Support",
+    "faction": "Chaos"
+  },
+  {
+    "id": 56,
+    "name": "Krista",
+    "position": "Middle Line",
+    "stat": "Intelligence",
+    "role": "Mage",
+    "faction": "Chaos"
+  },
+  {
+    "id": 57,
+    "name": "Jet",
+    "position": "Back Line",
+    "stat": "Intelligence",
+    "role": "Support, Healer",
+    "faction": "Progress"
+  },
+  {
+    "id": 58,
+    "name": "Cleaver",
+    "position": "Front Line",
+    "stat": "Strength",
+    "role": "Tank, Control",
+    "faction": "Chaos"
+  },
+  {
+    "id": 59,
+    "name": "Corvus",
+    "position": "Front Line",
+    "stat": "Strength",
+    "role": "Tank",
+    "faction": "Eternity"
+  },
+  {
+    "id": 60,
+    "name": "Morrigan",
+    "position": "Middle Line",
+    "stat": "Intelligence",
+    "role": "Healer, Support",
+    "faction": "Eternity"
+  },
+  {
+    "id": 61,
+    "name": "Aidan*",
+    "position": "Back Line",
+    "stat": "Intelligence",
+    "role": "Healer, Support",
+    "faction": "Chaos"
+  },
+  {
+    "id": 62,
+    "name": "Kayla*",
+    "position": "Front Line",
+    "stat": "Agility",
+    "role": "Warrior",
+    "faction": "Chaos"
+  },
+  {
+    "id": 63,
+    "name": "Cascade*",
+    "position": "Back Line",
+    "stat": "Agility",
+    "role": "Marksman",
+    "faction": "Mystery"
+  },
+  {
+    "id": 64,
+    "name": "Octavia*",
+    "position": "Back Line",
+    "stat": "Agility",
+    "role": "Support",
+    "faction": "Eternity"
+  },
+  {
+    "id": 65,
+    "name": "Oya*",
+    "position": "Front Line",
+    "stat": "Strength",
+    "role": "Warrior",
+    "faction": "Nature"
+  },
+  {
+    "id": 66,
+    "name": "Lara Croft*",
+    "position": "Back Line",
+    "stat": "Agility",
+    "role": "Marksman",
+    "faction": "Progress"
+  },
+  {
+    "id": 67,
+    "name": "Soleil*",
+    "position": "Middle Line",
+    "stat": "Intelligence",
+    "role": "Support",
+    "faction": "Honor"
+  },
+  {
+    "id": 68,
+    "name": "Folio*",
+    "position": "Middle Line",
+    "stat": "Intelligence",
+    "role": "Mage",
+    "faction": "Mystery"
+  },
+  {
+    "id": 69,
+    "name": "Tempus*",
+    "position": "Middle Line",
+    "stat": "Intelligence",
+    "role": "Support",
+    "faction": "Eternity"
+  }
+]

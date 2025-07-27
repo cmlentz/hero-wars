@@ -1,0 +1,54 @@
+1. rails new dvd-shop --api --minimal
+
+2. rails g resource Movie title year:integer length:integer director description poster_url category discount:boolean female_director:boolean --no-test-framework
+
+3. create seed file in db/seeds.rb
+
+4. rails db:migrate db:seed
+
+5. # config/routes.rb
+resources :movies, only: [:index]
+
+6. controller
+def index
+  movies = Movie.all
+  render json: movies
+end
+
+7. npx create-react-app client --use-npm
+
+8. add proxy
+# client/package.json
+"proxy": "http://localhost:3000"
+
+9. update start script
+"scripts": {
+  "start": "PORT=4000 react-scripts start"
+}
+
+10. rails s
+
+11. npm start --prefix client
+
+12. http://localhost:4000 to view the React application
+http://localhost:3000/movies to view the Rails application
+
+
+
+npx create-react-app "app-name"
+change title in public/index.html
+npm install react-router-dom
+npm install styled-components
+npm install react-icons
+add browser router and global styles to src/index.js
+remove default css files
+create each style component in styles folder
+create index.js in styles folder to add individual styles and export
+create each style's js file in styles folder
+import individual styles as needed into other components
+
+Adding new location:
+- add import and route to App.js
+- add Zonelink to Zones.js
+
+npx update-browserlist-db@latest

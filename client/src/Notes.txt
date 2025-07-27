@@ -1,0 +1,80 @@
+Campaign
+Arena - 10
+Airship - 20
+Hero's Way - 15
+Tower - 15
+Highwaymen - 18
+Masters - 25
+Grand Arena - 50
+Guild - 30
+-Dungeon
+-Hydra
+-Competitions 
+--Guild War
+--Global Championship
+
+Non-Exp dailies
+expedition x1 and x4
+watch 2 videos
+battle hydra x3
+upgrade hero's skin
+defeat all outland bosses
+level up artifact
+upgrade gift of the elements 
+collect 75 titanite
+use energy x100, x200, x300, x500, x750, x1000
+guild activity x850, x1500
+
+
+Brustar, Iyari, Solaris, Amon, Mort
+Sigurd, Nova, Hyperion, Araji, Eden
+	- Moloch in place of Araji
+	- Angus in place of Eden
+	- Vulcan in place of Hyperion
+
+Defender - Angus(green), Sigurd(blue), Moloch(red)
+Marksman - Sylva(green), Vulcan(red), Nova(blue)
+Support - Avalon(green), Ignis(red), Mairi(blue)
+Super - Eden(green), Araji(red), Hyperion(blue)
+
+
+Julius, Nebula, Isaac, Ginger, Fafnir (fond)
+Corvus, Dante, Iris, Morrigan, Octavia (saw in pvp)
+Luther, Tristan, Guus, Artemis, Fafnir (saw in pvp)
+
+Julius, Maya, Judge, Celeste, Astrid & Lucas
+Astaroth, Kayla, Jorgen, Dorian, Aidan
+Galahad, Qing Mao, Jhu, Theo, Martha
+
+Onyx - Fafnir, Ginger, Isaac, Nebula, Mushy
+Onyx Jr - Faceless, Keira, Alvanor, Mushy, Ishmael
+
+For outland battles level:
+Ishmael, Dark Star, Keira, Arachne/Markus, Cleaver
+
+Vadjar - Julius, Galahad, Ishmael, Yasmine, Qing Mao
+Ilyssa - Dante, Keira, Jhu, Ginger, Dark Star
+Brog - Markus, Jorgen, Xe'Sha, Dorian, Aidan
+
+
+Skins remaining (Onyx Jr)  35 + 3 sp
+	Luther x1 (sp)
+	Lars x3
+	Lara Croft x1 (sp)
+	Satori x4
+	Soleil x1 (sp)
+	Amira x2
+	Lian x4
+	Cornelius x4
+	Krista x4
+	Helios x3
+	Kai x3
+	Fox x4
+	Andvari x4
+
+
+uBlock Origin, EEF's Privacy Badger
+
+avast, brave, dropbox, patchmypc, winhance, ccleaner, notepad ++
+nero, winxdvd
+simple login?  nextcloud?

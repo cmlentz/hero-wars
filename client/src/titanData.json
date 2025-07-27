@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Moloch",
+    "element": "Fire"
+  },
+  {
+    "id": 2,
+    "name": "Araji *",
+    "element": "Fire"
+  },
+  {
+    "id": 3,
+    "name": "Vulcan",
+    "element": "Fire"
+  },
+  {
+    "id": 4,
+    "name": "Sylva",
+    "element": "Earth"
+  },
+  {
+    "id": 5,
+    "name": "Keros",
+    "element": "Darkness"
+  },
+  {
+    "id": 6,
+    "name": "Sigurd *",
+    "element": "Water"
+  },
+  {
+    "id": 7,
+    "name": "Angus",
+    "element": "Earth"
+  },
+  {
+    "id": 8,
+    "name": "Nova *",
+    "element": "Water"
+  },
+  {
+    "id": 9,
+    "name": "Avalon",
+    "element": "Earth"
+  },
+  {
+    "id": 10,
+    "name": "Ingus",
+    "element": "Fire"
+  },
+  {
+    "id": 11,
+    "name": "Mairi",
+    "element": "Water"
+  },
+  {
+    "id": 12,
+    "name": "Amon",
+    "element": "Light"
+  },
+  {
+    "id": 13,
+    "name": "Hyperion *",
+    "element": "Water"
+  },
+  {
+    "id": 14,
+    "name": "Eden *",
+    "element": "Earth"
+  },
+  {
+    "id": 15,
+    "name": "Iyari",
+    "element": "Light"
+  },
+  {
+    "id": 16,
+    "name": "Mort",
+    "element": "Darkness"
+  },
+  {
+    "id": 17,
+    "name": "Solaris",
+    "element": "Light"
+  },
+  {
+    "id": 18,
+    "name": "Brustar",
+    "element": "Darkness"
+  },
+  {
+    "id": 19,
+    "name": "Rigel",
+    "element": "Light"
+  },
+  {
+    "id": 20,
+    "name": "Tenebris",
+    "element": "Darkness"
+  }
+]
