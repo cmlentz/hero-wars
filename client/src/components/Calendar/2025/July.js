@@ -160,7 +160,7 @@ export default function July() {
           Titanite x90<br />
           Summoning Circle x4</li>
         <li>27 <br />
-          <br />yabba dabba doo<br /><br /></li>
+          <br /><br /><br /></li>
         <li>28 <br /><br /><br /><br /></li>
         <li>29 <br /><br /><br /><br /></li>
         <li>30 <br /><br /><br /><br /></li>
