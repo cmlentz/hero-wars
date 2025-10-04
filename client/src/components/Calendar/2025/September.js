@@ -2,16 +2,16 @@ import "../Calendar.css";
 import { NavLink } from "react-router-dom";
 import styled from "styled-components";
 
-export default function Month() {
+export default function September() {
   return (
     <div>
       <div class="month">      
         <ul>
           <li class="prev"><Arrowlink to="/aug25">&#9664;</Arrowlink></li>
-          {/* <li class="next"><Arrowlink to="/oct25">&#9654;</Arrowlink></li> */}
+          <li class="next"><Arrowlink to="/oct25">&#9654;</Arrowlink></li>
           <li>
-            Month<br />
-            Year
+            September<br />
+            2025
           </li>
         </ul>
       </div>
@@ -28,7 +28,8 @@ export default function Month() {
 
       <ul class="days">
         <li><br /><br /><br /><br /><br /></li>
-        <li>1 <br /><br /><br /><br /></li>
+        <li>1 <br />
+          <br /><br /><br /></li>
         <li>2 <br /><br /><br /><br /></li>
         <li>3 <br /><br /><br /><br /></li>
         <li>4 <br /><br /><br /><br /></li>

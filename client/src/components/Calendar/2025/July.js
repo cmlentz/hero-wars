@@ -8,7 +8,7 @@ export default function July() {
       <div class="month">      
         <ul>
           <li class="prev"><Arrowlink to="/jun25">&#9664;</Arrowlink></li>
-          {/* <li class="next"><Arrowlink to="/aug25">&#9654;</Arrowlink></li> */}
+          <li class="next"><Arrowlink to="/aug25">&#9654;</Arrowlink></li>
           <li>
             July<br />
             2025
@@ -160,11 +160,30 @@ export default function July() {
           Titanite x90<br />
           Summoning Circle x4</li>
         <li>27 <br />
-          <br /><br /><br /></li>
-        <li>28 <br /><br /><br /><br /></li>
-        <li>29 <br /><br /><br /><br /></li>
-        <li>30 <br /><br /><br /><br /></li>
-        <li>31 <br /><br /><br /><br /></li>
+          Heroes Skills x10<br />
+          Arena x8<br />
+          Mission x22<br />
+          Expedition x8</li>
+        <li>28 <br />
+          Heroic Mission x12<br />
+          Tower Chest x11<br />
+          Titanite x90<br />
+          Exp Potion x60</li>
+        <li>29 <br />
+          Hydra x3<br />
+          Heroic Chest x3<br />
+          Outland Battle x8<br />
+          Summoning Circle x4</li>
+        <li>30 <br />
+          Hydra x3<br />
+          Titanite x90<br />
+          Artifact Chest x18<br />
+          Soul Stone x75</li>
+        <li>31 <br />
+          Grand Arena x7<br />
+          Outland Battle x8<br />
+          Heroic Chest x3<br />
+          Heroic Mission x12</li>
       </ul>
     </div>
   );
