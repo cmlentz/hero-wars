@@ -32,6 +32,8 @@ import Jul25 from "./components/Calendar/2025/July.js";
 import Aug25 from "./components/Calendar/2025/August.js";
 import Sep25 from "./components/Calendar/2025/September.js";
 import Oct25 from "./components/Calendar/2025/October.js";
+import Nov25 from "./components/Calendar/2025/November.js";
+import Dec25 from "./components/Calendar/2025/December.js";
 import Heroes from "./Heroes.js";
 import Titans from "./Titans.js";
 import Tower from "./Tower.js";
@@ -41,7 +43,7 @@ function App() {
     <div>
       <Navbar />
       <Routes>
-        <Route path='/' element={<Sep25 />} />
+        <Route path='/' element={<Dec25 />} />
         <Route path='/mar23' element={<Mar23 />} />
         <Route path='/apr23' element={<Apr23 />} />
         <Route path='/may23' element={<May23 />} />
@@ -74,6 +76,8 @@ function App() {
         <Route path='/aug25' element={<Aug25 />} />
         <Route path='/sep25' element={<Sep25 />} />
         <Route path='/oct25' element={<Oct25 />} />
+        <Route path='/nov25' element={<Nov25 />} />
+        <Route path='/dec25' element={<Dec25 />} />
         <Route path='/heroes' element={<Heroes />} />
         <Route path='/titans' element={<Titans />} />
         <Route path='/tower' element={<Tower />} />
