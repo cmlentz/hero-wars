@@ -8,7 +8,7 @@ const Navbar = () =>{
       <Headerlink to="/heroes">Heroes</Headerlink>
       <Headerlink to="/titans">Titans</Headerlink>
       <Headerlink to="/tower">Tower</Headerlink>
-      <Headerlink to="/dec25">Calendar</Headerlink>
+      <Headerlink to="/feb26">Calendar</Headerlink>
     </Wrapper>
   );
 }

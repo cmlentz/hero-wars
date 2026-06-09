@@ -8,7 +8,7 @@ export default function December() {
       <div class="month">      
         <ul>
           <li class="prev"><Arrowlink to="/nov25">&#9664;</Arrowlink></li>
-          {/* <li class="next"><Arrowlink to="/jan26">&#9654;</Arrowlink></li> */}
+          <li class="next"><Arrowlink to="/jan26">&#9654;</Arrowlink></li>
           <li>
             December<br />
             2025
@@ -39,35 +39,150 @@ export default function December() {
           Summoning Circle x4<br />
           Expedition x8</li>
         <li>3 <br />
-          <br /><br /><br /></li>
-        <li>4 <br /><br /><br /><br /></li>
-        <li>5 <br /><br /><br /><br /></li>
-        <li>6 <br /><br /><br /><br /></li>
-        <li>7 <br /><br /><br /><br /></li>
-        <li>8 <br /><br /><br /><br /></li>
-        <li>9 <br /><br /><br /><br /></li>
-        <li>10 <br /><br /><br /><br /></li>
-        <li>11 <br /><br /><br /><br /></li>
-        <li>12 <br /><br /><br /><br /></li>
-        <li>13 <br /><br /><br /><br /></li>
-        <li>14 <br /><br /><br /><br /></li>
-        <li>15 <br /><br /><br /><br /></li>
-        <li>16 <br /><br /><br /><br /></li>
-        <li>17 <br /><br /><br /><br /></li>
-        <li>18 <br /><br /><br /><br /></li>
-        <li>19 <br /><br /><br /><br /></li>
-        <li>20 <br /><br /><br /><br /></li>
-        <li>21 <br /><br /><br /><br /></li>
-        <li>22 <br /><br /><br /><br /></li>
-        <li>23 <br /><br /><br /><br /></li>
-        <li>24 <br /><br /><br /><br /></li>
-        <li>25 <br /><br /><br /><br /></li>
-        <li>26 <br /><br /><br /><br /></li>
-        <li>27 <br /><br /><br /><br /></li>
-        <li>28 <br /><br /><br /><br /></li>
-        <li>29 <br /><br /><br /><br /></li>
-        <li>30 <br /><br /><br /><br /></li>
-        <li>31 <br /><br /><br /><br /></li>
+          Heroic Mission x12<br />
+          Outlands Chest x7<br />
+          Tower Chest x11<br />
+          Exp Potion x60</li>
+        <li>4 <br />
+          Hydra x3<br />
+          Titanite x90<br />
+          Artifact Chest x18<br />
+          Soul Stone x75</li>
+        <li>5 <br />
+          Expedition x8<br />
+          Guild Activity x250<br />
+          Tower Chest x11<br />
+          Summoning Circle x4</li>
+        <li>6 <br />
+          Heroes Skills x10<br />
+          Grand Arena x7<br />
+          Outland Battle x8<br />
+          Hydra x3</li>
+        <li>7 <br />
+          Arena x8<br />
+          Exp Potion x60<br />
+          Expedition x8<br />
+          Mission x22</li>
+        <li>8 <br />
+          Outlands Chest x7<br />
+          Hydra x3<br />
+          Grand Arena x7<br />
+          Soul Stone x75</li>
+        <li>9 <br />
+          Artifact Chest x18<br />
+          Guild Activity x250<br />
+          Titanite x90<br />
+          Heroic Chest x3</li>
+        <li>10 <br />
+          Arena x8<br />
+          Exp Potion x60<br />
+          Expedition x8<br />
+          Mission x22</li>
+        <li>11 <br />
+          Titanite x90<br />
+          Soul Stone x75<br />
+          Artifact Chest x18<br />
+          Hydra x3</li>
+        <li>12 <br />
+          Outland Battle x8<br />
+          Heroes Skills x10<br />
+          Tower Chest x11<br />
+          Guild Activity x250</li>
+        <li>13 <br />
+          Heroic Mission x12<br />
+          Outlands Chest x7<br />
+          Soul Stone x75<br />
+          Titanite x90</li>
+        <li>14 <br />
+          Summoning Circle x4<br />
+          Mission x22<br />
+          Arena x8<br />
+          Artifact Chest x18</li>
+        <li>15 <br />
+          Heroic Chest x3<br />
+          Exp Potion x60<br />
+          Grand Arena x7<br />
+          Hydra x3</li>
+        <li>16 <br />
+          Expedition x8<br />
+          Guild Activity x250<br />
+          Tower Chest x11<br />
+          Summoning Circle x4</li>
+        <li>17 <br />
+          Arena x8<br />
+          Titanite x90<br />
+          Heroes Skills x10<br />
+          Exp Potion x60</li>
+        <li>18 <br />
+          Heroic Mission x12<br />
+          Artifact Chest x18<br />
+          Grand Arena x7<br />
+          Exp Potion x60</li>
+        <li>19 <br />
+          Mission x22<br />
+          Expedition x8<br />
+          Guild Activity x250<br />
+          Summoning Circle x4</li>
+        <li>20 <br />
+          Titanite x90<br />
+          Outlands Chest x7<br />
+          Tower Chest x11<br />
+          Soul Stone x75</li>
+        <li>21 <br />
+          Mission x22<br />
+          Outlands Chest x7<br />
+          Soul Stone x75<br />
+          Titanite x90</li>
+        <li>22 <br />
+          Arena x8<br />
+          Artifact Chest x18<br />
+          Hydra x3<br />
+          Exp Potion x60</li>
+        <li>23 <br />
+          Summoning Circle x4<br />
+          Tower Chest x11<br />
+          Heroic Chest x3<br />
+          Titanite x90</li>
+        <li>24 <br />
+          Expedition x8<br />
+          Guild Activity x250<br />
+          Outlands Chest x7<br />
+          Soul Stone x75</li>
+        <li>25 <br />
+          Outland Battle x8<br />
+          Grand Arena x7<br />
+          Heroes Skills x10<br />
+          Artifact Chest x18</li>
+        <li>26 <br />
+          Hydra x3<br />
+          Guild Activity x250<br />
+          Exp Potion x60<br />
+          Arena x8</li>
+        <li>27 <br />
+          Expedition x8<br />
+          Summoning Circle x4<br />
+          Outlands Chest x7<br />
+          Tower Chest x11</li>
+        <li>28 <br />
+          Heroic Chest x3<br />
+          Mission x22<br />
+          Titanite x90<br />
+          Heroic Mission x12</li>
+        <li>29 <br />
+          Grand Arena x7<br />
+          Soul Stone x75<br />
+          Exp Potion x60<br />
+          Outland Battle x8</li>
+        <li>30 <br />
+          Arena x8<br />
+          Artifact Chest x18<br />
+          Guild Activity x250<br />
+          Outlands Chest x7</li>
+        <li>31 <br />
+          Tower Chest x11<br />
+          Summoning Circle x4<br />
+          Hydra x3<br />
+          Outland Battle x8</li>
       </ul>
     </div>
   );

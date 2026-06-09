@@ -30,7 +30,6 @@ export default function October() {
         <li><br /><br /><br /><br /><br /></li>
         <li><br /><br /><br /><br /><br /></li>
         <li><br /><br /><br /><br /><br /></li>
-        <li><br /><br /><br /><br /><br /></li>
         <li>1 <br />
           Heroic Mission x12<br />
           Artifact Chest x18<br />
